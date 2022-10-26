@@ -24,7 +24,7 @@ We used DIV2K dataset to train our model. Please download it from <a href="https
 You can evaluate our models on several widely used [benchmark datasets](https://cv.snu.ac.kr/research/EDSR/benchmark.tar), including Set5, Set14, B100, Urban100, Manga109. 
 
 ## Results
-All our SR images can be downloaded from <a href="https://pan.baidu.com/s/1ajRh2BNhBJ4iW1n0xJrbnw  ">Results</a>.[°Ù¶ÈÍøÅÌ][ÌáÈ¡Âë:5r7o]
+All our SR images can be downloaded from <a href="https://pan.baidu.com/s/1ajRh2BNhBJ4iW1n0xJrbnw  ">Results</a>.[ç™¾åº¦ç½‘ç›˜][æå–ç :5r7o]
 
 All pretrained model can be found in <a href="https://github.com/wzx0826/FDSCSR/tree/main/test_model">ACMTOMM2022_FDSCSR</a>.
 
