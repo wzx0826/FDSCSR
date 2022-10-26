@@ -67,7 +67,7 @@ python main.py --model FDSCSR --save FDSCSR-S_X2 --scale 2 --n_feats 36  --reset
 2. Cd to '/Test/code', run the following scripts.
 
 ```
-	FDSCSR:
+  FDSCSR:
 
 # FDSCSR x4
 python main.py --data_test MyImage --scale 4 --model FDSCSR --n_feats 48 --pre_train ../model/FDSCSR_X4.pt --test_only --save_results --chop --save 'FDSCSR_X4' --testpath ../LR/LRBI --testset Set5
