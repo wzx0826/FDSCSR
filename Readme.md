@@ -128,7 +128,7 @@ FDSCSR gains a better trade-off between model size, performance, inference speed
 
 
 ## Acknowledgements
-This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [DRN](https://github.com/guoyongcs/DRN). We thank the authors for sharing their codes.
+This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and [RCAN](https://github.com/yulunzhang/RCAN). We thank the authors for sharing their codes.
 
 ## Citation
 
