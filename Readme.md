@@ -37,7 +37,7 @@ The following PSNR/SSIMs are evaluated on Matlab R2017a and the code can be refe
 
 ```
 	
-	FDSCSR:
+  FDSCSR:
 
 # FDSCSR x4
 python main.py --model FDSCSR --save FDSCSR_X4 --scale 4 --n_feats 48  --reset --chop --save_results --patch_size 192
