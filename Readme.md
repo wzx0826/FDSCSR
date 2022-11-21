@@ -135,5 +135,14 @@ This code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTor
 If you use any part of this code in your research, please cite our paper:
 
 ```
-
+@article{10.1145/3569900,
+author = {Wang, Zhengxue and Gao, Guangwei and Li, Juncheng and Yan, Hui and Zheng, Hao and Lu, Huimin},
+title = {Lightweight Feature De-Redundancy and Self-Calibration Network for Efficient Image Super-Resolution},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1551-6857},
+url = {https://doi.org/10.1145/3569900},
+doi = {10.1145/3569900},
+}
 ```
